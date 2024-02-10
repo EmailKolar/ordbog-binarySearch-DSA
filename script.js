@@ -1,5 +1,5 @@
 "use strict";
-
+//test
 window.addEventListener("DOMContentLoaded",start);
 let globalArrayOfWords;
 async function start(){
